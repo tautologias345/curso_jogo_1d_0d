@@ -1,4 +1,7 @@
 # Curso Jogo 1D\_0D — Aprenda a Jogar Minijogos Inéditos
+
+## ![Logomarca do Jogo](icon.png)
+
 ---
 1. **Apresentação do Instrutor**: Sou Eduardo de Quadros, um autista brasileiro, nível 1 de suporte, graduado em Ciência da Computação em dezembro de 2021 e graduando em Marketing Digital, com previsão de conclusão para dezembro de 2025. Neste curso, ensinarei a jogar o jogo eletrônico que criei, chamado ***1D\_0D***.
 2. **Classificação Etária Livre**: O jogo tem classificação etária livre. Muitos jogadores, mesmo adultos, preferem jogos sem restrições de idade.
