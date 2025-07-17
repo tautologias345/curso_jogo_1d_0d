@@ -283,7 +283,7 @@
 			2. Roxo — Fácil
 			3. Amarelo — Normal
 			4. Azul — Difícil
-			5. Vermelho — Dificílimo.
+			5. Vermelho — Dificílimo
 		2. **Título da Conquista**: Um nome curto e descritivo que represente a conquista.
 		3. **Descrição da Conquista**: Uma frase no imperativo (afirmativo ou negativo) que descreva o objetivo da conquista. Exemplos incluem “Derrote todos os inimigos.” ou “Não pressione espaço por 10 segundos.”.
 	2. O armazenamento das conquistas é **local**, e se o jogador limpar o *cache* do jogo, todas as conquistas serão perdidas e precisarão ser obtidas novamente. As sugestões recebidas durante um período de 3 meses, desde o momento da primeira sugestão, serão implementadas no projeto da *Godot* e lançadas na próxima atualização do jogo. Após cada atualização, um novo período de 3 meses começa para receber novas sugestões, garantindo que o jogo evolua continuamente com base nas contribuições dos alunos.
@@ -294,13 +294,13 @@
 		2. Inglês australiano
 		3. Espanhol mexicano
 		4. Alemão austríaco
-		5. Francês da França.
+		5. Francês da França
 	3. Meu sonho é traduzir o jogo para os seguintes idiomas:
 		1. Italiano da Itália
 		2. Holandês
 		3. Polonês
 		4. Indonésio
-		5. Dinamarquês.
+		5. Dinamarquês
 	4. No entanto, aceito sugestões para qualquer outro idioma que o aluno domine. Se um aluno souber traduzir todos os textos da versão mais recente do jogo para um idioma específico, ele pode escrever a tradução e me enviar. O preço máximo que estou disposto a pagar por cada tradução completa é de **800 reais**. Contudo, se o aluno for alguém que **me ama muito (amor de amizade) há mais de 2 anos** e a tradução de documentos ou vozes **não for sua profissão principal**, mesmo que apenas conheço online esse aluno, então espero que esse aluno **realize a tradução de forma gratuita**. Após o aluno finalizar a tradução, ela será incorporada ao projeto da *Godot* do jogo e lançada na próxima versão do jogo. As traduções enviadas pelos alunos serão revisadas antes de serem adicionadas ao jogo.
 37. **Reembolso da Assinatura Semanal**: Em caso de cancelamento da *assinatura semanal*, o aluno será reembolsado pelo valor total pago desde o início da assinatura até a data do cancelamento. Se eu não tiver saldo suficiente no momento, o reembolso poderá ser parcelado em várias semanas, mesmo que o valor semanal seja variável.
 38. **Velocidade Mínima Recomendada para Download do Jogo**: Se você possui uma **conexão lenta (2 Mbps)**, saiba que o arquivo de instalação do jogo *1D\_0D* tem o tamanho de 178.706 KB e pode levar cerca de **12 minutos** para ser baixado integralmente. Apesar disso, o jogo foi desenvolvido para funcionar localmente após a instalação, **sem necessidade de internet durante a *jogatina***. Certifique-se de ter uma conexão estável no momento do download inicial.
