@@ -83,7 +83,6 @@
 	5. Essas *adaptações visam garantir* que todos os alunos, independentemente de suas condições, possam aproveitar plenamente o curso e o jogo. Caso o aluno precise desses recursos, ele deve informar ao instrutor assim que ingressar no curso.
 19. **Aluno Idoso**:
 	1. Para facilitar a participação dos alunos idosos no curso e no jogo *1D\_0D*, é importante considerar adaptações específicas com base na faixa etária em que o aluno se encontra. As recomendações abaixo são divididas em quatro faixas etárias.
-	2.
 	2. **Como o aluno idoso pode jogar o jogo no computador?** Independente da faixa etária, todos os alunos idosos devem ter acesso a um ambiente confortável e adaptado às suas necessidades.
 		1. Para o aluno **idoso (60-79 anos)**, recomenda-se:
 			1. Utilizar um monitor maior.
@@ -106,8 +105,7 @@
 			2. Contar com um acompanhante que opere o computador, permitindo foco apenas nos aspectos auditivos.
 			3. Garantir que o ambiente seja tranquilo e livre de distrações sonoras externas.
 			4. Explorar gradualmente os minijogos em 1D com o auxílio de um acompanhante dedicado, que descreverá os elementos visuais da tela e guiará o aluno durante a interação com os controles.
-	3.
-	2. **Como o aluno idoso pode participar das aulas do curso no Google Meet no computador?** As aulas no Google Meet também requerem adaptações específicas para garantir que os alunos idosos possam participar plenamente.
+	3. **Como o aluno idoso pode participar das aulas do curso no Google Meet no computador?** As aulas no Google Meet também requerem adaptações específicas para garantir que os alunos idosos possam participar plenamente.
 		1. Para o aluno **idoso (60-79 anos)**, recomenda-se:
 			1. Ajustar as configurações do Google Meet para aumentar o tamanho da fonte e o volume do áudio.
 			2. Utilizar fones de ouvido para melhorar a clareza do som.
